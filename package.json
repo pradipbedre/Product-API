@@ -1,0 +1,26 @@
+{
+  "name": "node-express-api",
+  "version": "1.0.0",
+  "description": "In this  project we understand how to create REST full API and host for anyone to access, in Node.js and express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradipbedre/Node-Express-Api.git"
+  },
+  "author": "pradip bedre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradipbedre/Node-Express-Api/issues"
+  },
+  "homepage": "https://github.com/pradipbedre/Node-Express-Api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "16.17.0"
+  }
+}
