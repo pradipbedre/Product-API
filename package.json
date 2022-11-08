@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pradipbedre/Node-Express-Api.git"
+    "url": "https://github.com/pradipbedre/Product-API.git"
   },
   "author": "pradip bedre",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pradipbedre/Node-Express-Api/issues"
+    "url": "https://github.com/pradipbedre/Product-API/issues"
   },
-  "homepage": "https://github.com/pradipbedre/Node-Express-Api#readme",
+  "homepage": "https://github.com/pradipbedre/Product-API/#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.2"
